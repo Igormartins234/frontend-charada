@@ -30,7 +30,7 @@ Este é um projeto simples de frontend que exibe uma charada aleatória e permit
 
 ## Como Usar
 
-1. Clone ou baixe este repositório.
+1. Clone ou baixe este repositório, ou acesse aqui: https://frontend-charada.vercel.app/
 2. Abra o arquivo `index.html` em qualquer navegador moderno.
 3. A página exibirá uma charada aleatória.
 4. Digite sua resposta no campo de texto e clique no botão "Ver resposta".
