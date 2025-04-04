@@ -58,7 +58,7 @@ frontend-charada/
 - Implementar uma API para buscar charadas dinamicamente.
 - Adicionar suporte a múltiplos idiomas.
 - Criar um sistema de pontuação para o usuário.
-
+-Acesse o projeto aqui: https://frontend-charada.vercel.app/
 ## Contribuição
 
 Igor Martins
